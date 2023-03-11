@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/vedant1510" target="blank"><img src="https://img.shields.io/twitter/follow/vedant1510?logo=twitter&style=for-the-badge" alt="vedant1510" /></a> </p>
 
-- 📫 How to reach me **https://www.linkedin.com/in/vedant-shah-286586229/**
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Vedant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-shah-286586229/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
