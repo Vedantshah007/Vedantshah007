@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 
 <h3 align="center">A Passionate Coder and Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantshah007&label=Profile%20views&color=0e75b6&style=flat" alt="vedantshah007" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vedantshah007&label=Profile%20views&color=0e75b6&style=flat" alt="vedantshah007" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vedant1510" target="blank"><img src="https://img.shields.io/twitter/follow/vedant1510?logo=twitter&style=for-the-badge" alt="vedant1510" /></a> </p>
+
+- 🔭 I’m currently pursuing **B.Tech in Computer Science from IIIT Vadodara**
 
 - 📫 How to reach me **[![Linkedin Badge](https://img.shields.io/badge/-Vedant-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-shah-286586229/)**
 
